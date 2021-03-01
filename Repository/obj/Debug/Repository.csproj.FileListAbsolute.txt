@@ -1,0 +1,6 @@
+C:\Users\prag\source\repos\ProcessPaymentTask\Repository\bin\Debug\Repository.dll
+C:\Users\prag\source\repos\ProcessPaymentTask\Repository\bin\Debug\Repository.pdb
+C:\Users\prag\source\repos\ProcessPaymentTask\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\prag\source\repos\ProcessPaymentTask\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\prag\source\repos\ProcessPaymentTask\Repository\obj\Debug\Repository.dll
+C:\Users\prag\source\repos\ProcessPaymentTask\Repository\obj\Debug\Repository.pdb
